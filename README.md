@@ -1,6 +1,8 @@
 # Internet of Things Course
 ## Learn IoT with Sir Mooazam
 
+![IoT Banner](https://www.simplilearn.com/ice9/free_resources_article_thumb/iot_devices.jpg)
+
 🚀 Welcome to an exciting journey into the world of Internet of Things (IoT)! This comprehensive course will equip you with the knowledge and skills needed to master the realm of IoT, from the basics to advanced project implementation.
 
 ### 🌟 What You'll Discover
@@ -37,7 +39,7 @@ To support your educational journey, we offer a variety of resources:
 
 ### 🛠️ Hands-On IoT Projects
 
-Put your newfound knowledge to practical use with these exciting projects:
+Put your newfound knowledge to practical use with these exciting projects.
 
 - **Development of Calculator using Keypad, LCD, and Arduino**: Create a fully functional calculator using Arduino. [View Project](https://github.com/MuhammadMooazam/Development-of-Calculator-using-Keypad-LCD-and-Arduino)
 
@@ -51,7 +53,7 @@ Put your newfound knowledge to practical use with these exciting projects:
 
 ### 📖 Additional Learning Resources
 
-Expand your knowledge further with these supplementary resources:
+Expand your knowledge further with these supplementary resources.
 
 - **C Programming Language**: Enhance your programming skills with C, a language fundamental to IoT. [C Programming Language](https://github.com/MuhammadMooazam/C-Programming-Language)
 
@@ -67,7 +69,7 @@ Expand your knowledge further with these supplementary resources:
 
 ### 📞 Stay Connected
 
-For any questions, clarifications, or guidance, feel free to reach out to me through these channels:
+For any questions, clarifications, or guidance, feel free to reach out to me through these channels.
 
 - **Email Address**: muhammadmoazam29@gmail.com
 
