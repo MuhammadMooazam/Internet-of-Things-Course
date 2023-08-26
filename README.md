@@ -3,7 +3,9 @@
 
 ![IoT Banner](https://www.simplilearn.com/ice9/free_resources_article_thumb/iot_devices.jpg)
 
-🚀 Welcome to an exciting journey into the world of Internet of Things (IoT)! This comprehensive course will equip you with the knowledge and skills needed to master the realm of IoT, from the basics to advanced project implementation.
+🚀 Welcome to an exciting journey into the world of the Internet of Things (IoT)! This comprehensive course will equip you with the knowledge and skills needed to master the realm of IoT, from the basics to advanced project implementation.
+
+---
 
 ### 🌟 What You'll Discover
 
@@ -21,6 +23,8 @@
 
 - **Hands-On IoT Projects:** Apply your knowledge through practical projects, ensuring you can implement what you've learned effectively.
 
+---
+
 ### 📚 Your Learning Resources
 
 To support your educational journey, we offer a variety of resources:
@@ -35,7 +39,9 @@ To support your educational journey, we offer a variety of resources:
 
 - **ESP32 Programming and Cloud**: Learn to program ESP32. [ESP32 Series](https://github.com/MuhammadMooazam/ESP32-Series)
 
-- **Raspberry Pi**: Explore the capabilities of Raspberry Pi in the context of IoT. [Raspberry PI Series](https://github.com/MuhammadMooazam/Raspberry-PI-Series)
+- **Raspberry Pi**: Explore the capabilities of the Raspberry Pi in the context of IoT. [Raspberry PI Series](https://github.com/MuhammadMooazam/Raspberry-PI-Series)
+
+---
 
 ### 🛠️ Hands-On IoT Projects
 
@@ -49,7 +55,9 @@ Put your newfound knowledge to practical use with these exciting projects.
 
 - **Line Following Robot**: Develop a robot that can follow lines, a fundamental skill for IoT applications. [View Project](https://github.com/MuhammadMooazam/Line-Following-Robot)
 
-- **Plastic Bag Manufacturing Machine**: Create an IoT system for automated plastic bag manufacturing machine. [View Project](https://github.com/MuhammadMooazam/Plastic-Bag-Manufacturing-Machine)
+- **Plastic Bag Manufacturing Machine**: Create an IoT system for an automated plastic bag manufacturing machine. [View Project](https://github.com/MuhammadMooazam/Plastic-Bag-Manufacturing-Machine)
+
+---
 
 ### 📖 Additional Learning Resources
 
@@ -59,13 +67,15 @@ Expand your knowledge further with these supplementary resources.
 
 - **Deploying API to Hosting Server with Python and MySQL**: Learn to deploy APIs with Python and MySQL. [API Deployment](https://github.com/MuhammadMooazam/Deploying-API-To-Hosting-Server_Python_with-MySQL)
 
-- **MySQL with Python**: Master working with MySQL in Python, a crucial skill for data management in IoT. [MySQL with Python](https://github.com/MuhammadMooazam/MySQL-with-Python)
+- **MySQL with Python**: Master working with MySQL in Python, a crucial skill for data management in the IoT. [MySQL with Python](https://github.com/MuhammadMooazam/MySQL-with-Python)
 
 - **ToDo Application with Firebase Database Integration**: Build a ToDo app with Firebase integration, showcasing real-time data interaction. [ToDo App](https://github.com/MuhammadMooazam/ToDo-App-with-Firebase-Database-Integration)
 
-- **Raspberry PI Connection with Laptop**: Learn how to establish a connection between Raspberry Pi and your laptop. [Raspberry PI Connection](https://github.com/MuhammadMooazam/Raspberry-Pi-connection-with-Laptop)
+- **Raspberry PI Connection with Laptop**: Learn how to establish a connection between the Raspberry Pi and your laptop. [Raspberry PI Connection](https://github.com/MuhammadMooazam/Raspberry-Pi-connection-with-Laptop)
 
 - **Opening Tkinter GUI on Raspberry PI Startup**: Set up a Tkinter GUI to launch automatically on Raspberry Pi startup. [Tkinter GUI on Raspberry PI](https://github.com/MuhammadMooazam/Opening-Tkinter-GUI-on-RaspberryPi-Startup)
+
+---
 
 ### 📞 Stay Connected
 
